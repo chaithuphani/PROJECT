@@ -1,2 +1,0 @@
-eid,ename,salary,dept_id
-1,bob,1000,10
